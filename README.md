@@ -16,3 +16,8 @@ Smart-Methods summer training program 2022 - (AI)
 9. Writing a Simple Publisher and Subscriber (Python)
 10. Recording and playing back data
 
+### This is a picture showing the success of downloading ros
+![](![نجاح تحميل روز](https://user-images.githubusercontent.com/108503091/180417350-0c8081bc-0ae0-4782-9ec4-fc03ac86d28d.jpeg)
+)
+
+
